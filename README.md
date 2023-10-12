@@ -1,5 +1,6 @@
 # CMP325-FibonacciTest
-Fibonacci Sequence Generator and Tester
+Fibonacci Sequence Generator and Tester:
+
 This repository contains a Java program for generating the first 10 numbers of the Fibonacci sequence and a corresponding test class to ensure the correctness of the generator using JUnit.
 
 Test Result:
