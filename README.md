@@ -21,7 +21,7 @@ Java
 JUnit
 
 GROUP MEMBERS:
-Ndubuisi Paul	BHU/21/04/05/0037.__
+Ndubuisi Paul	BHU/21/04/05/0037.
 Olubukun Samuel	BHU/21/04/05/0038.
 Eking Immanuel Festus	BHU/21/04/05/0016.
 Orji Godspraise Chidera	BHU/21/04/05/0072.
